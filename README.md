@@ -1,2 +1,2 @@
 # python_codes
-codes written during PG-DIOT
+codes written while pursuing PG-DIOT

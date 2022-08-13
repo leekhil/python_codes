@@ -1,1 +1,3 @@
 inside branch1
+second line
+this line should not be pushed
